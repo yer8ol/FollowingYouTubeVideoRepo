@@ -1,1 +1,9 @@
 this is a new file and our first commit
+
+
+
+This is would be my code if i were in Python
+
+
+
+print("I love..)
